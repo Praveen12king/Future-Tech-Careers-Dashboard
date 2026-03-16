@@ -4,11 +4,8 @@ Interactive Tableau Dashboard analyzing global technology job market trends, sal
 # 📊 Future Tech Careers Dashboard
 
 ### Global Technology Job Market Analysis
-
-
-
 ---
-
+"C:\Users\pasal\Downloads\image tableau project.jpeg"
 # 📌 Project Overview
 
 The **Future Tech Careers Dashboard** is an interactive **Tableau analytics dashboard** that explores the global technology job market.
