@@ -5,6 +5,8 @@ Interactive Tableau Dashboard analyzing global technology job market trends, sal
 
 ### Global Technology Job Market Analysis
 
+
+
 ---
 
 # 📌 Project Overview
@@ -128,9 +130,13 @@ https://public.tableau.com/app/profile/praveen.kumar.reddy.pasala/viz/FUTURETECH
 
 Future-Tech-Careers-Dashboard
 │
+
 ├── README.md
+
 ├── dataset.csv
+
 ├── dashboard.png
+
 └── Tableau_Link.txt
 
 ---
@@ -139,7 +145,7 @@ Future-Tech-Careers-Dashboard
 
 Praveen Kumar Reddy Pasala
 
-Aspiring Data Analyst | Data Visualization Enthusiast
+Aspiring Data Analyst 
 
 Skills:
 • Tableau
