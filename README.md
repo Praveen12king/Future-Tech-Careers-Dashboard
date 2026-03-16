@@ -8,7 +8,7 @@ Interactive Tableau Dashboard analyzing global technology job market trends, sal
 ### Global Technology Job Market Analysis
 
 <p align="center">
-  <img src="image tableau project.jpeg" width="900">
+  <img src="image tableau project.png" width="900">
 </p>
 # 📌 Project Overview
 
